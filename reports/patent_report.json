@@ -1,0 +1,315 @@
+{
+  "total_patents": 1000000,
+  "total_inventors": 1287067,
+  "total_companies": 143638,
+  "years_covered": {
+    "from": 1976,
+    "to": 2025
+  },
+  "top_inventors": [
+    {
+      "rank": 1,
+      "name": "Shunpei Yamazaki",
+      "patents": 722
+    },
+    {
+      "rank": 2,
+      "name": "Tao Luo",
+      "patents": 481
+    },
+    {
+      "rank": 3,
+      "name": "Kia Silverbrook",
+      "patents": 478
+    },
+    {
+      "rank": 4,
+      "name": "Jonathan P. Ive",
+      "patents": 320
+    },
+    {
+      "rank": 5,
+      "name": "Junyi Li",
+      "patents": 320
+    },
+    {
+      "rank": 6,
+      "name": "Frederick E. Shelton, IV",
+      "patents": 295
+    },
+    {
+      "rank": 7,
+      "name": "Kangguo Cheng",
+      "patents": 293
+    },
+    {
+      "rank": 8,
+      "name": "Peter Gaal",
+      "patents": 280
+    },
+    {
+      "rank": 9,
+      "name": "Duncan Robert Kerr",
+      "patents": 270
+    },
+    {
+      "rank": 10,
+      "name": "Bartley K. Andre",
+      "patents": 264
+    }
+  ],
+  "top_companies": [
+    {
+      "rank": 1,
+      "name": "Samsung Display Co., Ltd.",
+      "patents": 18660
+    },
+    {
+      "rank": 2,
+      "name": "International Business Machines Corporation",
+      "patents": 17129
+    },
+    {
+      "rank": 3,
+      "name": "Canon Kabushiki Kaisha",
+      "patents": 9699
+    },
+    {
+      "rank": 4,
+      "name": "Sony Group Corporation",
+      "patents": 6783
+    },
+    {
+      "rank": 5,
+      "name": "Fujitsu Limited",
+      "patents": 6056
+    },
+    {
+      "rank": 6,
+      "name": "Intel Corporation",
+      "patents": 5699
+    },
+    {
+      "rank": 7,
+      "name": "Kabushiki Kaisha Toshiba",
+      "patents": 5672
+    },
+    {
+      "rank": 8,
+      "name": "General Electric Company",
+      "patents": 5379
+    },
+    {
+      "rank": 9,
+      "name": "Lg Electronics Inc.",
+      "patents": 5275
+    },
+    {
+      "rank": 10,
+      "name": "Mitsubishi Electric Corporation",
+      "patents": 4873
+    }
+  ],
+  "patents_per_year": [
+    {
+      "year": 1976,
+      "total": 7396
+    },
+    {
+      "year": 1977,
+      "total": 7470
+    },
+    {
+      "year": 1978,
+      "total": 7417
+    },
+    {
+      "year": 1979,
+      "total": 5595
+    },
+    {
+      "year": 1980,
+      "total": 7041
+    },
+    {
+      "year": 1981,
+      "total": 7563
+    },
+    {
+      "year": 1982,
+      "total": 6615
+    },
+    {
+      "year": 1983,
+      "total": 6575
+    },
+    {
+      "year": 1984,
+      "total": 7635
+    },
+    {
+      "year": 1985,
+      "total": 8095
+    },
+    {
+      "year": 1986,
+      "total": 8045
+    },
+    {
+      "year": 1987,
+      "total": 9518
+    },
+    {
+      "year": 1988,
+      "total": 9008
+    },
+    {
+      "year": 1989,
+      "total": 10809
+    },
+    {
+      "year": 1990,
+      "total": 10375
+    },
+    {
+      "year": 1991,
+      "total": 11291
+    },
+    {
+      "year": 1992,
+      "total": 11415
+    },
+    {
+      "year": 1993,
+      "total": 11466
+    },
+    {
+      "year": 1994,
+      "total": 11981
+    },
+    {
+      "year": 1995,
+      "total": 12129
+    },
+    {
+      "year": 1996,
+      "total": 12911
+    },
+    {
+      "year": 1997,
+      "total": 13137
+    },
+    {
+      "year": 1998,
+      "total": 17301
+    },
+    {
+      "year": 1999,
+      "total": 17964
+    },
+    {
+      "year": 2000,
+      "total": 18599
+    },
+    {
+      "year": 2001,
+      "total": 19362
+    },
+    {
+      "year": 2002,
+      "total": 19681
+    },
+    {
+      "year": 2003,
+      "total": 19679
+    },
+    {
+      "year": 2004,
+      "total": 19281
+    },
+    {
+      "year": 2005,
+      "total": 16774
+    },
+    {
+      "year": 2006,
+      "total": 20717
+    },
+    {
+      "year": 2007,
+      "total": 19418
+    },
+    {
+      "year": 2008,
+      "total": 19706
+    },
+    {
+      "year": 2009,
+      "total": 20063
+    },
+    {
+      "year": 2010,
+      "total": 25881
+    },
+    {
+      "year": 2011,
+      "total": 26128
+    },
+    {
+      "year": 2012,
+      "total": 29379
+    },
+    {
+      "year": 2013,
+      "total": 31977
+    },
+    {
+      "year": 2014,
+      "total": 34539
+    },
+    {
+      "year": 2015,
+      "total": 34468
+    },
+    {
+      "year": 2016,
+      "total": 35557
+    },
+    {
+      "year": 2017,
+      "total": 37032
+    },
+    {
+      "year": 2018,
+      "total": 36181
+    },
+    {
+      "year": 2019,
+      "total": 41465
+    },
+    {
+      "year": 2020,
+      "total": 41227
+    },
+    {
+      "year": 2021,
+      "total": 38560
+    },
+    {
+      "year": 2022,
+      "total": 38184
+    },
+    {
+      "year": 2023,
+      "total": 37389
+    },
+    {
+      "year": 2024,
+      "total": 39688
+    },
+    {
+      "year": 2025,
+      "total": 40313
+    }
+  ]
+}
